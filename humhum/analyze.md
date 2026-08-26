@@ -150,6 +150,8 @@ Browser --> User : 投稿表示
 @enduml
 ```
 
+![sequence](./sequence.png)
+
 これはHumHubをソース解析するときにかなり重要です。
 
 例えば、
