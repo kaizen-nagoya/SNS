@@ -44,6 +44,8 @@ Space表示 --> ログイン済み : Home
 @enduml
 ```
 
+![state](./state.png)
+
 ### この図で見るべきところ
 
 HumHubの分析では、特に、
