@@ -149,6 +149,8 @@ browser --> controller : HTTP/HTTPS
 @enduml
 ```
 
+![soft](./soft.png)
+
 これは、今後**「HumHubを参考に社内SNSを自作する」**ときに特に重要な図になります。
 
 例えば自作SNSでは、
