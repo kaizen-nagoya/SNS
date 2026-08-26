@@ -231,7 +231,7 @@ humhub --> browser : HumHub Web UI
 @enduml
 ```
 
-![install(./install.png)
+![install](./install.png)
 
 ---
 
