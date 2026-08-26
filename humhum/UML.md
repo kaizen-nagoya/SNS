@@ -280,3 +280,6 @@ humhub/
 を調べて、**「HumHubのパッケージ図」→「User/Space/Contentのクラス図」→「ログイン処理のシーケンス図」**の3枚を作ると、単なるインストール手順から一気に**設計解析**へ進められます。
 
 特に小川さんの場合は、最終的にこのHumHubのUMLを**PlantUMLで再現し、それをベースに「自作社内SNS」のUMLへ変換する**流れがかなり相性がよいと思います。
+
+# UML入門 chapter 13 のまとめ
+https://github.com/kaizen-nagoya/-/blob/main/UML/chapter13.md
