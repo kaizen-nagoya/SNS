@@ -231,6 +231,8 @@ humhub --> browser : HumHub Web UI
 @enduml
 ```
 
+![install(./install.png)
+
 ---
 
 ## 3枚を並べると
